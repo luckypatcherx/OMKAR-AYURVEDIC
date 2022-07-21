@@ -105,7 +105,7 @@ abbr[data-original-title]{
 /* ## defaults */
 /**/
 body, a{
-    color: #777777;
+    color: #f1fffc;
 }
 body{
     font-size: 16px;
@@ -702,7 +702,7 @@ hr.alt-4{
     margin-left: 20px;
 }
 .breadcrumb a{
-    color: #b3debf;
+    color: #fff;
 }
 .breadcrumb a:last-child{
     color: #ffffff;
@@ -769,8 +769,8 @@ header.sticky-header{
     width: 100%;
     z-index: 99;
     font-size: 0;
-    background-color: #ffffff;
-    background: rgba(255,255,255, .93);
+    background-color: #449342;
+    background:  #449342;
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
@@ -948,7 +948,7 @@ header .inner-nav .logo > a > img{
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 90px 0 90px;
-    background-color: #ffffff;
+    background-color: #2faf7e;
 }
 .small-section{
     padding: 70px 0 70px;
@@ -958,7 +958,6 @@ header .inner-nav .logo > a > img{
     padding: 10px 0 10px;
     background-attachment: scroll;
     background-position: top;
-    margin-bottom: 10px;
 }
 .page-section.alt-color,
 .small-section.alt-color{
@@ -1495,7 +1494,7 @@ header .inner-nav .logo > a > img{
     display: inline-block;
     position: relative;
     padding: 6px 30px;
-    color: #ffffff;
+    color: #eaeaea;
     border: 1px solid;
     font-size: 18px;
     font-family: Philosopher;
@@ -1515,8 +1514,8 @@ header .inner-nav .logo > a > img{
     -o-transition: all 0.3s;
     -ms-transition: all 0.3s;
     transition: all 0.3s;
-    background-color: #76c08a;
-    border-color: #76c08a;
+    background-color: #03353c;
+    border-color: transparent;
 }   
 .button.large{
     height: auto;
@@ -5569,7 +5568,7 @@ ins.ins-2,
 .widget-navigation>ul>li>ul>li>ul>li>a:before,
 .info-boxes.confirmation-message,
 .info-boxes.confirmation-message.alt .info-box-icon{
-    background-color: #76c08a;
+    background-color: #03353c;
 }
 strong,
 .select-title,
@@ -5677,7 +5676,7 @@ aside h4,
 .info-boxes.confirmation-message.alt .info-title,
 .info-boxes.confirmation-message.alt .close-button,
 #scroll-top{
-    color: #2ac096;
+    color: #ebedec;
 }
 .submenu,
 .title-under.alt a h3:hover,
