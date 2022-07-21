@@ -1551,8 +1551,8 @@ header .inner-nav .logo > a > img{
     background-color: transparent;
 }
 .button:hover{
-    color: #76c08a;
-    background-color: transparent;
+    color: #eaeaea;
+    background-color: #2c636a;
 }
 .button.button-border:hover{
     color: #ffffff;
