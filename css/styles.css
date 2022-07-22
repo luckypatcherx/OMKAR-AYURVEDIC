@@ -961,7 +961,7 @@ header .inner-nav .logo > a > img{
 }
 .page-section.alt-color,
 .small-section.alt-color{
-    background-color: #f0f7f2;
+    background-color: #03353c;
 }
 .footer-section{
     padding: 80px 0;
@@ -1156,7 +1156,7 @@ header .inner-nav .logo > a > img{
     top: 100%;
     font-size: 15px !important;
     padding: 20px;
-    background-color: rgba(255,255,255, 0.9);
+    background-color: #2cb2a2d6;
     border-bottom: 4px solid;
 }
 .submenu li a{
@@ -2147,7 +2147,7 @@ header .inner-nav .logo > a > img{
     font-size: 30px;
     font-weight: 400;
     line-height: 1.4;
-    color: #646464;
+    color: #c1f6ec;
     margin-bottom: 15px;
 }
 .shop-container.alt-2 .shop-price span{
@@ -5735,9 +5735,9 @@ aside,
     box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #76c08a;
 }
 .features-center:hover .features-icon{
-    -webkit-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
-    -moz-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
-    box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
+    -webkit-box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px;
+    -moz-box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px;
+    box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px;
 }
 .features-icon.alt-1{
     -webkit-box-shadow: 0 0 0 2px #76c08a inset, 0 0 0 5px #ffffff;
