@@ -1277,7 +1277,7 @@ header .inner-nav .logo > a > img{
 .mobile-on .desktop-nav ul{
     width: 100%;
     float: none;
-    background: rgba(255,255,255, .9);
+    background: #2cb2a2d6;
     position: relative;
     overflow-x: hidden;
     border: 1px solid;
@@ -1303,7 +1303,7 @@ header .inner-nav .logo > a > img{
 .mobile-on .desktop-nav ul li ul{
     padding: 0;
     margin-top: -2px !important;
-    background-color: #fbfaf6;
+    background-color: #2cb2a2d6;
     border: 1px solid;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
