@@ -3420,7 +3420,7 @@ footer{
     transition: all 0.3s; 
 }
 .pricing-table ul li:nth-child(2n+1) {
-    background-color: #f0f7f2;
+    background-color: #1e8c62;
 }
 .pricing-table:not(.active):hover{
     margin-top: -15px;
