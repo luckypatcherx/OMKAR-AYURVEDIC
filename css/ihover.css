@@ -1656,15 +1656,15 @@
 }
 .ih-item.circle.effect13 .info {
   background: #333333;
-  background: rgba(118,192,138, 0.9);
-  opacity: 0;
+  background: rgba(56, 57, 56, 0.34);
+  opacity: 1;
   pointer-events: none;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .ih-item.circle.effect13 .info h3 {
-  visibility: hidden;
+  visibility: visible;
   position: relative;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
@@ -1693,11 +1693,11 @@
 }
 
 .ih-item.circle.effect13.from_left_and_right .info h3 {
-  -webkit-transform: translateX(-100%);
-  -moz-transform: translateX(-100%);
-  -ms-transform: translateX(-100%);
-  -o-transform: translateX(-100%);
-  transform: translateX(-100%);
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
 }
 .ih-item.circle.effect13.from_left_and_right .info > div {
   -webkit-transform: translateX(100%);
