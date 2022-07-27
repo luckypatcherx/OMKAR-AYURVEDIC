@@ -89,6 +89,7 @@
 html, body, iframe, header, footer, main, aside, nav, section, article, div, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ul, ol, li, hr, blockqoute, pre, figure, figcaption, address, form, fieldset, legend, label, input, select, textarea, button {
     display: block; 
     outline: none;
+    scroll-behavior: smooth;
 }
 a, button{
     cursor: pointer;
@@ -1480,7 +1481,6 @@ header .inner-nav .logo > a > img{
     box-shadow: 0 0 0 20px #c7d5d3 inset;
 }
 .banner-bottom .button{
-    padding: 0 18px 0 38px;
     text-align: left;
     font-size: 16px;
     line-height: 1.15;
@@ -1493,7 +1493,7 @@ header .inner-nav .logo > a > img{
 .button{
     display: inline-block;
     position: relative;
-    padding: 6px 30px;
+    padding:6px 9px 6px 35px;
     color: #eaeaea;
     border: 1px solid;
     font-size: 18px;
@@ -1569,7 +1569,7 @@ header .inner-nav .logo > a > img{
 .button-icon-left i{
     position: absolute;
     z-index: 1;
-    left: 10px;
+    left: 5px;
     top: 50%;
     margin-top: -11px;
     font-size: 22px;
