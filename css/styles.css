@@ -5852,6 +5852,29 @@ aside,
         border-bottom: 4px solid #c7d5d3;
     }
 }
+.footerlist{
+    font-size: 16px;
+    line-height: 1.2;
+}
+.footerlist{
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+.footerlist{
+    color: #ffffff;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.footerlist a:hover{
+    color: #dfc449;
+}
+.footerlist{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
 @media only screen and (max-width: 768px){
     .nav-tabs > li > a {
         padding: 7px 10px;
