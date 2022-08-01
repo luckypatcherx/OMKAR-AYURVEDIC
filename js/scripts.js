@@ -137,39 +137,17 @@ function sticky_set () {
 
 //scroll to section
 
-function packagescrollc() {
-    packageload();
-    packagescroll();
+
+function packagescrollc(){
+    window.location.replace("/index.html#package-scroll");
 }
-function treatmentc() {
-    treatmentload();
-    treatmentscroll();
+function sptreatmentc(){
+    window.location.replace("/index.html#sptreatment");
 }
-function contactc() {
-    treatmentload();
-    treatmentscroll();
+function contactc(){
+    window.location.replace("/index.html#contact-scroll");
 }
 
-function packageload(){
-    window.location.replace("/index.html");
-}
-setTimeout(function packagescroll(){
-    window.location.href="/index.html#package-scroll"
-}, 1000)
-
-function treatmentload(){
-    window.location.replace("/index.html");
-}
-setTimeout(function treatmentscroll(){
-    window.location.href="/index.html#sptreatment"
-}, 1000)
-
-function contactload(){
-    window.location.replace("/index.html");
-}
-setTimeout(function contactscroll(){
-    window.location.href="/index.html#contact"
-}, 1000)
 
 
 
