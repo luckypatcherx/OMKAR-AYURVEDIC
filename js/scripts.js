@@ -148,6 +148,9 @@ function sptreatmentc(){
 function contactc(){
     window.location.replace("../OMKAR-AYURVEDIC/index.html#mnbmbbct768"); 
 }
+function home(){
+    window.location.replace("../OMKAR-AYURVEDIC/index.html")
+}
 
 
 
