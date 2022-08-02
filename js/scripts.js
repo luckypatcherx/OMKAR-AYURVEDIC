@@ -139,7 +139,7 @@ function sticky_set () {
 
 
 function packagescrollc(){
-    window.location.replace("../index.html#package-scroll");
+    window.location.replace("index.html#package-scroll");
       
 }
 function sptreatmentc(){
