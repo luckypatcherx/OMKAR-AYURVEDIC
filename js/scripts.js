@@ -139,14 +139,14 @@ function sticky_set () {
 
 
 function packagescrollc(){
-    window.location.replace("index.html#package-scroll");
+    window.location.replace("../OMKAR-AYURVEDIC/index.html#package-scroll");
       
 }
 function sptreatmentc(){
-    window.location.replace("../index.html#sptreatment");
+    window.location.replace("../OMKAR-AYURVEDIC/index.html#sptreatment");
 }
 function contactc(){
-    window.location.replace("../index.html#mnbmbbct768"); 
+    window.location.replace("../OMKAR-AYURVEDIC/index.html#mnbmbbct768"); 
 }
 
 
