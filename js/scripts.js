@@ -140,13 +140,15 @@ function sticky_set () {
 
 function packagescrollc(){
     window.location.replace("/index.html#package-scroll");
+      
 }
 function sptreatmentc(){
     window.location.replace("/index.html#sptreatment");
 }
 function contactc(){
-    window.location.replace("/index.html#contact-scroll");
+    window.location.replace("/index.html#mnbmbbct768"); 
 }
+
 
 
 
