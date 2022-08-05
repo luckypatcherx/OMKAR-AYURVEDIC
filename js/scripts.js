@@ -146,7 +146,7 @@ function sptreatmentc(){
     window.location.replace("../OMKAR-AYURVEDIC/index.html#sptreatment");
 }
 function contactc(){
-    window.location.replace("../OMKAR-AYURVEDIC/index.html#mnbmbbct768"); 
+    window.location.replace("../OMKAR-AYURVEDIC/index.html#contact"); 
 }
 function home(){
     window.location.replace("../OMKAR-AYURVEDIC/index.html")
