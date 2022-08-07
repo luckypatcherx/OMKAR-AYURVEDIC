@@ -106,7 +106,7 @@ abbr[data-original-title]{
 /* ## defaults */
 /**/
 body, a{
-    color: #f1fffc;
+    color: #3a3a3a;
 }
 body{
     font-size: 16px;
@@ -247,7 +247,7 @@ ins.ins-2{
     letter-spacing: 1px;
 }
 .section-title span{
-    color: #c7d5d3;
+    color: #627d5a;
 }
 .shop-info-title {
     margin-bottom: 0;
@@ -308,7 +308,7 @@ ins.ins-2{
     top: 50%;
     width: 90px;
     height: 1px;
-    background: #c7d5d3;
+    background: #627d5a;
 }
 .bottom-line.section-title span:before{
    margin-right: 10px;
@@ -607,7 +607,7 @@ hr.alt-4{
     -moz-transform: translate3d(-50%,-50%,0) rotate(45deg);
     -ms-transform: translate3d(-50%,-50%,0) rotate(45deg); 
     transform: translate3d(-50%,-50%,0) rotate(45deg);     
-    background-color: #fff;
+    background-color: #f3f3f4;
 }
 .sep-lane span img{
     position: absolute;
@@ -770,8 +770,8 @@ header.sticky-header{
     width: 100%;
     z-index: 99;
     font-size: 0;
-    background-color: #2cb2a2;
-    background:  #2cb2a2;
+    background-color: #4d7e43;
+    background:  #4d7e43;
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
@@ -949,7 +949,7 @@ header .inner-nav .logo > a > img{
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 90px 0 90px;
-    background-color: #2faf7e;
+    background-color: #f3f3f4;
 }
 .small-section{
     padding: 70px 0 70px;
@@ -962,7 +962,7 @@ header .inner-nav .logo > a > img{
 }
 .page-section.alt-color,
 .small-section.alt-color{
-    background-color: #03353c;
+    background-color: #bad3b4;
 }
 .footer-section{
     padding: 80px 0;
@@ -1444,7 +1444,7 @@ header .inner-nav .logo > a > img{
 .banner-soc a{
     position: relative;
     z-index: 1;
-    color: #c7d5d3;
+    color: #6a6a6a;
     width: 40px;
     height: 40px;
     line-height: 40px;
@@ -1514,7 +1514,7 @@ header .inner-nav .logo > a > img{
     -o-transition: all 0.3s;
     -ms-transition: all 0.3s;
     transition: all 0.3s;
-    background-color: #03353c;
+    background-color: #4d7e43;
     border-color: transparent;
 }   
 .button.large{
@@ -1957,6 +1957,9 @@ button:focus {
     -webkit-box-shadow: 0 0 0 8px rgba(227,219,191, 0.5) inset, 0 0 0 8px rgba(227,219,191, 0.2);
     -moz-box-shadow: 0 0 0 8px rgba(227,219,191, 0.5) inset, 0 0 0 8px rgba(227,219,191, 0.2);
     box-shadow: 0 0 0 8px rgba(227,219,191, 0.5) inset, 0 0 0 8px rgba(227,219,191, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .sl-title{
     font-size: 30px;
@@ -2275,11 +2278,14 @@ button:focus {
 .shop-stars{
     color: #dfc449;
 }
+.col-ovrrdde{
+    color: rgb(231, 231, 231) !important;
+}
 .shop-container.alt-2 .shop-price{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.4;
-    color: #c1f6ec;
+    color: #3a3a3a;
     margin-bottom: 15px;
 }
 .shop-container.alt-2 .shop-price span{
@@ -4044,9 +4050,9 @@ footer{
     -webkit-border-radius: 285px;
     -moz-border-radius: 285px;
     border-radius: 285px;
-    -webkit-box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.8) inset;
-    -moz-box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.8) inset;
-    box-shadow: 0 0 0 15px rgba(255, 255, 255, 0.8) inset;    
+    -webkit-box-shadow: 0 0 0 15px rgb(186, 211, 180) inset;
+    -moz-box-shadow: 0 0 0 15px rgb(186, 211, 180) inset;
+    box-shadow: 0 0 0 15px rgb(186, 211, 180) inset;    
 }
 .portfolio-item .info{
     color: #ffffff;
@@ -5808,7 +5814,7 @@ aside h4,
 .info-boxes.confirmation-message.alt .info-title,
 .info-boxes.confirmation-message.alt .close-button,
 #scroll-top{
-    color: #e3e3e3;
+    color: #333333;
 }
 .submenu,
 .title-under.alt a h3:hover,
