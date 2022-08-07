@@ -119,6 +119,13 @@ img{
     max-width: 100%;
     height: auto;
 }
+.logo img{
+    max-width: 120%;
+    height: auto;
+}
+.fa .fa-bars{
+    color: whitesmoke !important;
+}
 section{
     display:block;
     margin:0;
@@ -3651,8 +3658,8 @@ footer{
     display: inline-block;
 }
 .alt-1 .gift-title h3{
-    font-size: 28px;
-    line-height: 0.7;
+    font-size: 18px;
+    line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
     color: #ffffff;
