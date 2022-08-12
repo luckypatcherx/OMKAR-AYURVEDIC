@@ -6024,6 +6024,9 @@ aside,
     .nav-tabs > li > a {
         padding: 7px 10px;
     }
+    .contact-links h2{
+        margin-bottom: 1.1rem;
+    }
     .shop-checkout .form.login a.lost {
         float: none;
         margin-left: 10px;
