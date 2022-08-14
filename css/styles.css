@@ -778,7 +778,7 @@ header.sticky-header{
     z-index: 99;
     font-size: 0;
     background-color: #4d7e43;
-    background:  #4d7e43;
+    background: #513119;
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
@@ -1774,6 +1774,19 @@ visibility: inherit;
 z-index: 20;
 transition: all  ease-in-out 500ms;
 }
+.sliderrimg3{
+    background-color: rgba(0, 0, 0, 0);
+background-repeat: no-repeat;
+background-image: url("../images/section-bg/slider-1.jpg");
+background-size: cover;
+background-position: center center;
+width: 100%;
+height: 100%;
+opacity: 1;
+visibility: inherit;
+z-index: 20;
+transition: all  ease-in-out 500ms;
+}
 .tp-banner-container{
         transition: all ease-in-out !important;
 }
@@ -2286,7 +2299,10 @@ button:focus {
     color: #dfc449;
 }
 .col-ovrrdde{
-    color: rgb(231, 231, 231) !important;
+    color: rgb(237, 236, 229) !important;
+}
+.col-ovrrddeh{
+    color: rgb(213, 194, 24) !important;
 }
 .shop-container.alt-2 .shop-price{
     font-size: 18px;
