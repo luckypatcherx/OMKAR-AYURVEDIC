@@ -1110,7 +1110,7 @@ header .inner-nav .logo > a > img{
     vertical-align: text-top;
     margin-left: 4px;
 } 
-.mobile-on .nav-submenu > i{
+.mobile-on .nav-submen > i{
     position: absolute;
     z-index: 1;
     display: block;
@@ -1342,7 +1342,7 @@ header .inner-nav .logo > a > img{
 .mobile-on .desktop-nav ul li a.active{
     font-size: 18px;
 }
-.mobile-on .js-opened > .nav-submenu > .fa{
+.mobile-on .js-opened > .nav-submen > .fa{
     border-color: rgba(255,255,255, .4);
     line-height: 14px;
 }
