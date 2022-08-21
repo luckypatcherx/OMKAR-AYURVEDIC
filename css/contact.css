@@ -100,9 +100,7 @@ img.contact-box {
   user-select: none;
 }
 
-img:hover {
-  transform: scale(1.1, 1.1);
-}
+
 
 img:active {
   transform: scale(1.1, 1.1);
