@@ -2006,7 +2006,7 @@ button:focus {
     color: #ffffff;
     width: 38px;
     height: 38px;
-    background-color: #8fdba3;
+    background-color: #ce975f;
     -webkit-box-shadow: 0 0 0 4px #f7f5ef inset, 0 0 0 1px #c7d5d3;
     -moz-box-shadow: 0 0 0 4px #f7f5ef inset, 0 0 0 1px #c7d5d3;
     box-shadow: 0 0 0 4px #f7f5ef inset, 0 0 0 1px #c7d5d3;
@@ -6110,6 +6110,14 @@ aside,
         width: 164px;
         height: auto;
         max-width: none;
+    }
+    .banner-soc{
+        display: flex;
+        justify-content: center;
+    }
+    .btn-cntr{
+        display: flex;
+        justify-content: center;
     }
     .group {
         height: 100px;
