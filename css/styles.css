@@ -280,7 +280,7 @@ ins.ins-2{
 .banner-title{
     font-size: 48px;
     margin-bottom: 30px;
-    line-height: 0.7;
+    line-height: 0.9;
 }
 .title-under > *{
     display: inline-block;
@@ -778,7 +778,7 @@ header.sticky-header{
     z-index: 99;
     font-size: 0;
     background-color: #4d7e43;
-    background: #513119;
+    background: #543a21;
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
@@ -1285,7 +1285,7 @@ header .inner-nav .logo > a > img{
 .mobile-on .desktop-nav ul{
     width: 100%;
     float: none;
-    background: #2cb2a2d6;
+    background: #53341c;
     position: relative;
     overflow-x: hidden;
     border: 1px solid;
@@ -2302,7 +2302,7 @@ button:focus {
     color: rgb(237, 236, 229) !important;
 }
 .col-ovrrddeh{
-    color: rgb(213, 194, 24) !important;
+    color:#ce975f!important;
 }
 .shop-container.alt-2 .shop-price{
     font-size: 18px;
@@ -5889,7 +5889,7 @@ aside,
 .widget-navigation>ul>li,
 .widget-navigation>ul>li>ul>li>a,
 .widget-navigation>ul>li>ul{
-    border-color: #76c08a;
+    border-color: rgba(255, 255, 255, 0.512);
 }
 .features-icon{
     -webkit-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #76c08a;
