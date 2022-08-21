@@ -6103,6 +6103,14 @@ aside,
     .serv-button{
         float: none;
     }
+    .banner-title,.section-text,.list-style-2{
+        text-align: center;
+    }
+    .logo img{
+        width: 164px;
+        height: auto;
+        max-width: none;
+    }
     .group {
         height: 100px;
         text-align: center;
