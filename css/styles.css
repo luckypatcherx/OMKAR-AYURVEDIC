@@ -1792,7 +1792,7 @@ transition: all  ease-in-out 500ms;
         transition: all ease-in-out !important;
 }
 .img-adj{
-    background-position: center -171px;
+    background-position: center center;
 }
 
 button {
@@ -4505,6 +4505,9 @@ aside ul{
 /**/
 /* ## widget search */
 /**/
+.lightbox-single{
+    cursor: pointer;
+}
 .search-submit {
     width: 48px;
     height: 44px;
@@ -5971,7 +5974,17 @@ aside,
     .filter-grid-5 .portfolio-item {
         width: 25%;
     }
-}   
+}  
+@media only screen and (min-width: 1200px){
+    .img-adj{
+        background-position: center -12vw;
+    }
+} 
+@media only screen and (min-width: 1900px){
+    .img-adj{
+        background-position: center -22vw;
+    }
+}
 @media only screen and (max-width: 992px){
     .news-right .alt-2.news-item.small,
     .news-left .alt-2.news-item.small {

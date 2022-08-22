@@ -646,8 +646,8 @@ MagnificPopup.prototype = {
 	 */
 	addGroup: function(el, options) {
 		var eHandler = function(e) {
-			e.mfpEl = this;
-			mfp._openClick(e, el, options);
+			e.mfpEkkl = this;
+			m._openClick(e, el, options);
 		};
 
 		if(!options) {
