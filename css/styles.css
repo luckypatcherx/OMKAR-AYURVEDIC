@@ -1532,7 +1532,7 @@ header .inner-nav .logo > a > img{
 }
 .button.small{
     height: auto;
-    padding: 4px 28px;
+    padding: 6px 28px;
     font-size: 17px;
 }
 .button.mini {
@@ -1793,6 +1793,12 @@ transition: all  ease-in-out 500ms;
 }
 .img-adj{
     background-position: center center;
+}
+.s1{
+    margin-left: -90px !important;
+}
+.s2{
+    margin-right: -90px !important;
 }
 
 button {
@@ -4063,10 +4069,20 @@ footer{
     position: relative;
     overflow: hidden;
 }
+.rm-btn{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
 .portfolio-img img{
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;    
+    transition: all 500ms ease-in-out;
+}
+.portfolio-media:hover > .portfolio-img img{
+    filter: brightness(50%);
 }
 .portfolio-img:before{
     content: ' ';
@@ -6122,6 +6138,17 @@ aside,
     }
     .banner-title,.section-text,.list-style-2{
         text-align: center;
+    }
+    .tp-caption{
+        transform: scale(80%) !important;
+    }
+    .s1{
+        margin-left: -0px !important;
+        margin-top: 60px !important;
+    }
+    .s2{
+        margin-right: -0px !important;
+        margin-top: 60px !important;
     }
     .logo img{
         width: 164px;
