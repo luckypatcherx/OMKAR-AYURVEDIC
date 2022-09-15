@@ -313,7 +313,7 @@ ins.ins-2{
     display: inline-block;
     vertical-align: middle;
     top: 50%;
-    width: 90px;
+    width: 35px;
     height: 1px;
     background: #627d5a;
 }
@@ -2315,11 +2315,14 @@ button:focus {
     color:#ce975f!important;
 }
 .shop-container.alt-2 .shop-price{
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 400;
     line-height: 1.4;
     color: #3a3a3a;
     margin-bottom: 15px;
+}
+.shop-price{
+    padding-top: 8px;
 }
 .shop-container.alt-2 .shop-price span{
     font-size: 16px;
