@@ -329,7 +329,7 @@ ins.ins-2{
 }
 .bottom-line.long.section-title span:before,
 .bottom-line.long.section-title span:after{
-    width: 100px;
+    width: 20px;
 }
 .section-text {
     font-weight: 300;
